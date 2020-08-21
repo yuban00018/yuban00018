@@ -1,4 +1,4 @@
-### Hi there 👋
+在努力寻找方向，目前不知道自己该干什么，也许博客每月更新一次leetcode和洛谷的题解？
 
 <!--
 **yuban00018/yuban00018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
