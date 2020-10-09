@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Web Spider
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: In my computer, practice and theory are combined: nothing works and no one knows why.
 <!--
 - 👯 I’m looking to collaborate on )
