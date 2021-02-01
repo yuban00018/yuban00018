@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Web
-- 🌱 I’m currently learning Vue.js
+- 🌴 I’m currently on holiday 
+- 🌱 I’m currently learning algorithm & Java
 - ⚡ Fun fact: In my computer, practice and theory are combined: nothing works and no one knows why.
 <!--
 - 👯 I’m looking to collaborate on )
