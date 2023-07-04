@@ -1,6 +1,5 @@
 <!-- - 🌴 I’m currently-->
-- 🌱 I’m currently learning ... so many things XD
-- 🐱‍💻 Wanna do some interesting projects!
+- 😄 Graduated
 - ⚡ Fun fact: In my computer, practice and theory are combined: nothing works and no one knows why.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuban00018&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
